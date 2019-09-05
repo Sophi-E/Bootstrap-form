@@ -1,0 +1,44 @@
+.form-div {
+  width: 30%;
+  margin: 0 auto;
+  background-color: #3498db;
+  border-radius: 15px;
+  margin-top: 5em;
+}
+h1 {
+  text-align: center;
+  color: #192a56;
+  font-family: "Cinzel", serif;
+  padding: 20px 10px 10px 10px;
+}
+
+form {
+  padding: 20px;
+  border: 2px dotted #192a56;
+  border-radius: 15px;
+  box-sizing: border-box;
+}
+
+label {
+  color: #192a56;
+  font-family: "Cinzel", serif;
+  font-weight: bold;
+}
+
+.btn {
+  background-color: #192a56;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  margin-top: 8px;
+  padding: 8px 10px;
+  align-items: center;
+  margin: 0px auto;
+  text-align: center;
+  display: block;
+}
+.btn:hover {
+  border-radius: 50%;
+  border: 2px dashed #192a56;
+  background-color: #3498db;
+  color: #192a56;
+}
